@@ -1,11 +1,7 @@
 ## Welcome to GitHub Pages (est)
 
-You can use the [editor on GitHub](https://github.com/mass-spec-info/metaboguide/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
- [環境](https://mass-spec-info.github.io/metaboguide/ch_insilico_frag)
+ [質量分析インフォマティクスのための環境](https://mass-spec-info.github.io/metaboguide/ch_env_for_msinfo)
 
 
  
